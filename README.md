@@ -1,4 +1,4 @@
-## Hi there 👋![LogofaC2_462x492 Azul 3D Sombra](https://github.com/user-attachments/assets/6346254d-dc6a-44c1-bf3c-93fb8176967a)
+## Hi there 👋 Hola! Bienvenido ![LogofaC2_462x492 Azul 3D Sombra](https://github.com/user-attachments/assets/6346254d-dc6a-44c1-bf3c-93fb8176967a)
 
 
 <!--
