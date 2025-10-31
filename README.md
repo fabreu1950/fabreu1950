@@ -1,10 +1,12 @@
-## ![LogofaC2_462x492 Azul 3D Sombra](https://github.com/user-attachments/assets/6346254d-dc6a-44c1-bf3c-93fb8176967a)
-## Hi there 👋 Hola! Bienvenido. 
-
+## <img src="https://github.com/user-attachments/assets/6346254d-dc6a-44c1-bf3c-93fb8176967a" alt="LogofaC2_462x492 Azul 3D Sombra" width="30%">
+## Hi there 👋 Hola! Bienvenido. ✨✨✨
 
 <!--
 **fabreu1950/fabreu1950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## ![LogofaC2_462x492 Azul 3D Sombra](https://github.com/user-attachments/assets/6346254d-dc6a-44c1-bf3c-93fb8176967a)
+# Hi there 👋 Hola! Bienvenido. 
+### Hi there 👋 Hola! Bienvenido. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
